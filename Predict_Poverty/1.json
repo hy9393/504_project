@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mus",
+               "short_name" : "Mus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nicobar",
+               "short_name" : "Nicobar",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Andaman and Nicobar Islands",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "744301",
+               "short_name" : "744301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mus, Andaman and Nicobar Islands 744301, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.2456978,
+                  "lng" : 92.78769489999999
+               },
+               "southwest" : {
+                  "lat" : 9.236781199999999,
+                  "lng" : 92.7735115
+               }
+            },
+            "location" : {
+               "lat" : 9.241515300000001,
+               "lng" : 92.7817156
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.2456978,
+                  "lng" : 92.78769489999999
+               },
+               "southwest" : {
+                  "lat" : 9.236781199999999,
+                  "lng" : 92.7735115
+               }
+            }
+         },
+         "place_id" : "ChIJA5AKzSdeYzARoEPJJH1fNkw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,308 @@
+{
+   "plus_code" : {
+      "compound_code" : "Q24M+QG Vigheypur, Uttar Pradesh, India",
+      "global_code" : "7JVWQ24M+QG"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vigheypur",
+               "short_name" : "Vigheypur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hathras",
+               "short_name" : "Hathras",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "204216",
+               "short_name" : "204216",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Vigheypur, Uttar Pradesh 204216, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7571857,
+                  "lng" : 78.03409739999999
+               },
+               "southwest" : {
+                  "lat" : 27.7568696,
+                  "lng" : 78.0337225
+               }
+            },
+            "location" : {
+               "lat" : 27.757066,
+               "lng" : 78.0339898
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7583766302915,
+                  "lng" : 78.0352589302915
+               },
+               "southwest" : {
+                  "lat" : 27.75567866970849,
+                  "lng" : 78.0325609697085
+               }
+            }
+         },
+         "place_id" : "ChIJz_4KALmYdDkRQPyedC904xA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vigheypur",
+               "short_name" : "Vigheypur",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hathras",
+               "short_name" : "Hathras",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vigheypur, Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7711799,
+                  "lng" : 78.0495499
+               },
+               "southwest" : {
+                  "lat" : 27.74613,
+                  "lng" : 78.02144
+               }
+            },
+            "location" : {
+               "lat" : 27.7569879,
+               "lng" : 78.03380779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7711799,
+                  "lng" : 78.0495499
+               },
+               "southwest" : {
+                  "lat" : 27.74613,
+                  "lng" : 78.02144
+               }
+            }
+         },
+         "place_id" : "ChIJRbuVQLmYdDkRYhvjuKmR_1g",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "204216",
+               "short_name" : "204216",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uttar Pradesh 204216, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.7900107,
+                  "lng" : 78.1139561
+               },
+               "southwest" : {
+                  "lat" : 27.6570977,
+                  "lng" : 77.9785007
+               }
+            },
+            "location" : {
+               "lat" : 27.7086392,
+               "lng" : 78.04236829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.7900107,
+                  "lng" : 78.1139561
+               },
+               "southwest" : {
+                  "lat" : 27.6570977,
+                  "lng" : 77.9785007
+               }
+            }
+         },
+         "place_id" : "ChIJtduQCRmZdDkR_MM74x5_vFE",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hathras",
+               "short_name" : "Hathras",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hathras, Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.84589,
+                  "lng" : 78.52727999999999
+               },
+               "southwest" : {
+                  "lat" : 27.3014299,
+                  "lng" : 77.86497
+               }
+            },
+            "location" : {
+               "lat" : 27.4985811,
+               "lng" : 78.0195387
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.84589,
+                  "lng" : 78.52727999999999
+               },
+               "southwest" : {
+                  "lat" : 27.3014299,
+                  "lng" : 77.86497
+               }
+            }
+         },
+         "place_id" : "ChIJNXnCJjKbdDkRC58NQtFut-Y",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uttar Pradesh",
+               "short_name" : "UP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uttar Pradesh, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.411635,
+                  "lng" : 84.6743269
+               },
+               "southwest" : {
+                  "lat" : 23.870839,
+                  "lng" : 77.0924369
+               }
+            },
+            "location" : {
+               "lat" : 26.8467088,
+               "lng" : 80.9461592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.411635,
+                  "lng" : 84.6743269
+               },
+               "southwest" : {
+                  "lat" : 23.870839,
+                  "lng" : 77.0924369
+               }
+            }
+         },
+         "place_id" : "ChIJ0wlKe59OmTkRnSQXNm1HpfY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
